@@ -140,11 +140,7 @@ a:active {
 }
 
 /* background stuff */
-.container {
-	background-color: #000000;
-	width: 100vw;
-	height: 100vh;
-}
+
 .layer {
 	width: 100vw;
 	height: 100vh;
