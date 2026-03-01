@@ -277,18 +277,22 @@ position: absolute;
   color:#cfd2da;
 }
 
-/* copy email */
-.copy-btn {
-    cursor: pointer;
-    border: none;
-    background: none;
-    color: var(--theme-color);
+/* small button */
+.mini-btn{
+  color: #b86966; 
+  font-size: 0.7em;
+  font-weight: bold;
+  height: 1.8em; 
+  background-color: transparent; 
+  vertical-align: middle;
+  border: none;
 }
+
 
 /* no blank line in list */
 .marginless-list {
     list-style-type: disc;
-    margin: -20px;          /* remove extra spacing */
+    margin: -20px 0 -20px 0;  
 }
 
 /* Menu Links */
