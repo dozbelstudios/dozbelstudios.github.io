@@ -1,5 +1,10 @@
-# Update 0.1c 29/02/26
+# Update 0.1d 02/03/26
+Removed 3rd party stylesheets and consolidated some styles. Restored stylesheet loading functionality.
+
+# Update 0.1c 28/02/26
 Added support for theme colour in Chrome mobile. Fixed error messages for the case of invalid APIs. Added data-driven message fetching. These updates are now data driven! Further optimized load times and future-proofed website for scalability.
+cd /Users/alexwong/Desktop/dozbelstudios.github.io
+python -m http.server 8000
 
 # Update 0.1b 27/02/26
 Updated formatting styles. Temporarily removed asynchronous stylesheet loading. Replaced products with update tab. Optimized file sizes and page is once again indexable.
